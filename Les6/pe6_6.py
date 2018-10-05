@@ -9,4 +9,5 @@ def wijzig(letterlijst):
     a[2] = "f"
     print(letterlijst)
 
+
 wijzig(letters)
